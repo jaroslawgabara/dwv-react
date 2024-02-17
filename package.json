@@ -7,7 +7,8 @@
     "@mui/icons-material": "^5.15.10",
     "@mui/material": "^5.15.10",
     "@mui/styles": "^5.15.10",
-    "prop-types": "^15.8.1"
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0"
   },
   "devDependencies": {
     "@babel/plugin-syntax-jsx": "^7.23.3"
